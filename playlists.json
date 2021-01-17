@@ -1,0 +1,40 @@
+[
+    {
+        "Id": "4028efd4-e4fe-4c36-9bf0-bc3e5b5ed6cd",
+        "Title": "Linear Algebra Introduction",
+        "Image": "images/playlists/vector.png",
+        "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+        "AudienceId": "",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "CatId": "efa1291b-f8d5-451f-bfad-4f49816b9bac",
+        "Description": "Get start with introduction to linear algebra",
+        "StatusTagId": "",
+        "StatusNote": null,
+        "Assets": [
+          "c6af2ea0-0173-483c-ba7d-f0346134d02f",
+          "dd497e75-6447-43ed-b80c-3e33e7007a53",
+          "d7c11224-88fe-4819-8b2b-e982b1a07624"          
+        ]
+      },
+      {
+        "Id": "707d77d5-85da-4388-b1e7-37f955b9c71f",
+        "Title": "Statistics and Probability Introduction",
+        "Image": "images/playlists/stats.png",
+        "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+        "AudienceId": "",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "CatId": "4e27c3ed-024c-4b5c-b29c-f3446a9cf35c",
+        "Description": "Get start with introduction to statistics and probability.",
+        "StatusTagId": "",
+        "StatusNote": "",
+        "Assets": [
+          "d256c967-f51e-424b-b6f5-4e7ed78a8a84",
+          "0922ccfc-7eb5-46d6-8550-1b486ea8d3e8",
+          "2daf02de-e663-4c34-b4d8-2b4e3f0292a3"
+        ]
+      }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "Id": "c6af2ea0-0173-483c-ba7d-f0346134d02f",
+        "Title": "Vector introduction for linear algebra",
+        "Description": "",
+        "Url": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra?embed=true",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": "test"
+      },
+      {
+        "Id": "dd497e75-6447-43ed-b80c-3e33e7007a53",
+        "Title": "Adding vectors algebraically & graphically",
+        "Description": "",
+        "Url": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/adding-vectors?embed=true",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "d7c11224-88fe-4819-8b2b-e982b1a07624",
+        "Title": "Parametric representations of lines",
+        "Description": "",
+        "Url": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-parametric-representations-of-lines?embed=true",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+
+      {
+        "Id": "d256c967-f51e-424b-b6f5-4e7ed78a8a84",
+        "Title": "Creating a bar graph",
+        "Description": "",
+        "Url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/creating-bar-charts-1?embed=true",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "0922ccfc-7eb5-46d6-8550-1b486ea8d3e8",
+        "Title": "Reading bar graphs",
+        "Description": "",
+        "Url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-graphs?embed=true",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      },
+      {
+        "Id": "2daf02de-e663-4c34-b4d8-2b4e3f0292a3",
+        "Title": "Identifying individuals, variables and categorical variables in a data set",
+        "Description": "",
+        "Url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/identifying-individuals-variables-and-categorical-variables-in-a-data-se?embed=true",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "StatusNote": ""
+      }
+]

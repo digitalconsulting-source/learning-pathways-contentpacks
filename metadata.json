@@ -1,0 +1,133 @@
+{
+    "Technologies": [
+      {
+        "Id": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "Name": "Maths",
+        "Subjects": []
+      }   
+    ],
+    "Categories": [
+      {
+        "Id": "90ac20d2-1834-4fe9-a34f-ac52f9675cbc",
+        "Name": "Linear Algebra",
+        "Image": "images/categories/linearalgebra.png",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "SubCategories": [
+          {
+            "Id": "efa1291b-f8d5-451f-bfad-4f49816b9bac",
+            "Name": "Vector and spaces",
+            "Image": "images/categories/maths.png",
+            "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+            "SubjectId": null,
+            "Source": "Khan Academy",
+            "SubCategories": []
+          },
+          {
+            "Id": "844978d6-9633-4812-bc7e-a48a3b142ad3",
+            "Name": "Matrix Transformations",
+            "Image": "images/categories/maths.png",
+            "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+            "SubjectId": null,
+            "Source": "Khan Academy",
+            "SubCategories": []
+          }
+        ]
+      },
+      {
+        "Id": "08816646-f2e4-4fe8-ae30-e92b96778d2f",
+        "Name": "Statistics and probability",
+        "Image": "images/categories/statisticsandprobability.png",
+        "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+        "SubjectId": "",
+        "Source": "Khan Academy",
+        "SubCategories": [
+          {
+            "Id": "4e27c3ed-024c-4b5c-b29c-f3446a9cf35c",
+            "Name": "Analyzing one categorical variable",
+            "Image": "images/categories/maths.png",
+            "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+            "SubjectId": null,
+            "Source": "Khan Academy",
+            "SubCategories": []
+          },
+          {
+            "Id": "edcbda17-ff45-479d-9986-0be6c953ea70",
+            "Name": "Modeling data distributions",
+            "Image": "images/categories/maths.png",
+            "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+            "SubjectId": null,
+            "Source": "Khan Academy",
+            "SubCategories": []
+          },
+          {
+            "Id": "859ac0f4-392c-448b-b5d8-24f828ec4402",
+            "Name": "Probability",
+            "Image": "images/categories/maths.png",
+            "TechnologyId": "86a3e54f-56d4-453c-9981-a83c94ecdcf0",
+            "SubjectId": null,
+            "Source": "Khan Academy",
+            "SubCategories": []
+          }
+        ]
+      }      
+    ],
+    "Audiences": [
+      {
+        "Id": "d5fb91f0-b6d3-4cce-8c9b-0ea2402c4cbe",
+        "Name": "Student"
+      },
+      {
+        "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+        "Name": "Professor"
+      },
+      {
+        "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
+        "Name": "Research Scholor"
+      },      
+      {
+        "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+        "Name": "All"
+      }
+    ],
+    "Sources": [
+      "Khan Academy"
+    ],
+    "Levels": [
+      {
+        "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+        "Name": "Beginner"
+      },
+      {
+        "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+        "Name": "Intermediate"
+      },
+      {
+        "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+        "Name": "Advanced"
+      }
+    ],
+    "StatusTag": [
+      {
+        "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+        "Name": "New"
+      },
+      {
+        "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
+        "Name": "Updated"
+      },
+      {
+        "Id": "90fe6290-e063-4778-a8a1-7531c2a0a40e",
+        "Name": "Retiring"
+      },
+      {
+        "Id": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+        "Name": "Retired"
+      },
+      {
+        "Id": "42be48f6-1f82-4fda-a757-add2499677d9",
+        "Name": "Beta"
+      }
+    ]
+  }
